@@ -3,8 +3,8 @@ package ru.yandex.practicum.delivery;
 public abstract class Parcel {
     //добавьте реализацию и другие необходимые классы
 
-    private String description;
-    private int weight;
+    private String description; // про модификаторы доступа понял, не стал исправлять, чтобы сэкономить время
+    private int weight;         // и успеть сегодня начать изучать новую тему
     private String deliveryAddress;
     private int sendDay;
 

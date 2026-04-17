@@ -5,7 +5,7 @@ import ru.yandex.practicum.delivery.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class DeliveryCostTest {
+public class DeliveryAppTest {
 
     @Test
     public void shouldReturnDeliveryCost20ForStandardParcel() {
